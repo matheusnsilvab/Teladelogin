@@ -13,9 +13,11 @@
 <br>
 
 ## 💻 Tela do projeto
+<div align="center">
 <img src="https://github.com/matheusnsilvab/Teladelogin/assets/131299485/8566bdfc-8241-4ec3-b7a6-3cf6ee335d44" width="600px"/>
 <img src="https://github.com/matheusnsilvab/Teladelogin/assets/131299485/e2f4dc6d-3c3d-4a6f-ad18-59dfe7c81f04" width="250px"/>
-  
+</div>
+
 ##
 
 ## 🚀 Rodando o projeto
