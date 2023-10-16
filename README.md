@@ -1,8 +1,4 @@
-<h1 align="center">Teladelogin</h1>
-
-<br>
-
-## 📝 Descrição
+# Teladelogin
 > Uma simples tela de login que quando o usuário não coloca as informações pedidas do arquivo javascript vai receber um alerta, e quando elas são usadas no projeto o browser irá reiniciar.
 
 <br>
