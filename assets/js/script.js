@@ -3,7 +3,7 @@ function Entrar() {
     var usuario = document.getElementsByName('username')[0].value;
     usuario = usuario.toLowerCase();
     var senha = document.getElementsByName('password')[0].value;
-    seha = senha.toLowerCase();
+    senha = senha.toLowerCase();
   
     if (usuario == "oimatth_" && senha == "1704") {
       window.location = "index.html";
